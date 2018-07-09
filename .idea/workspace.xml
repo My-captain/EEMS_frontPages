@@ -12,46 +12,32 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="desc.css" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/static/css/desc/desc.css">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="561">
+                    <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htmls/login.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="desc.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/htmls/desc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-              <folding>
-                <element signature="e#724#730#0" expanded="true" />
-                <element signature="e#730#736#0" expanded="true" />
-                <element signature="e#737#743#0" expanded="true" />
-                <element signature="e#743#749#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="headerAndFooter.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/headerAndFooter.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="637">
-              <caret line="339" lean-forward="true" selection-start-line="339" selection-end-line="339" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="public.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/public.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/css/index/login.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="637">
-              <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
+            <state relative-caret-position="700">
+              <caret line="56" column="27" lean-forward="true" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -66,6 +52,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -75,6 +64,8 @@
         <option value="$PROJECT_DIR$/static/css/headerAndFooter.css" />
         <option value="$PROJECT_DIR$/htmls/login.html" />
         <option value="$PROJECT_DIR$/static/css/index/login.css" />
+        <option value="$PROJECT_DIR$/htmls/desc.html" />
+        <option value="$PROJECT_DIR$/static/css/desc/desc.css" />
       </list>
     </option>
   </component>
@@ -87,76 +78,68 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1102" />
-    <option name="width" value="825" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1292" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="EEMS_FrontPages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EEMS_FrontPages" type="462c0819:PsiDirectoryNode" />
+              <item name="EEMS_frontPages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EEMS_frontPages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EEMS_FrontPages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EEMS_FrontPages" type="462c0819:PsiDirectoryNode" />
+              <item name="EEMS_frontPages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EEMS_frontPages" type="462c0819:PsiDirectoryNode" />
               <item name="htmls" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EEMS_FrontPages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EEMS_FrontPages" type="462c0819:PsiDirectoryNode" />
+              <item name="EEMS_frontPages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EEMS_frontPages" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EEMS_FrontPages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EEMS_FrontPages" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EEMS_FrontPages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EEMS_FrontPages" type="462c0819:PsiDirectoryNode" />
+              <item name="EEMS_frontPages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EEMS_frontPages" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EEMS_FrontPages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EEMS_FrontPages" type="462c0819:PsiDirectoryNode" />
+              <item name="EEMS_frontPages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EEMS_frontPages" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="desc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EEMS_frontPages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EEMS_frontPages" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EEMS_FrontPages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EEMS_FrontPages" type="462c0819:PsiDirectoryNode" />
+              <item name="EEMS_frontPages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EEMS_frontPages" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
+              <item name="desc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EEMS_FrontPages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EEMS_FrontPages" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EEMS_FrontPages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EEMS_FrontPages" type="462c0819:PsiDirectoryNode" />
+              <item name="EEMS_frontPages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EEMS_frontPages" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EEMS_FrontPages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EEMS_FrontPages" type="462c0819:PsiDirectoryNode" />
+              <item name="EEMS_frontPages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EEMS_frontPages" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
@@ -165,6 +148,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,15 +159,15 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Mr.Robot\Desktop\workspace\EEMS_FrontPages\static\images\index" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mr.Robot\Desktop\workspace\EEMS_frontPages\static\images\desc" />
       <recent name="C:\Users\Mr.Robot\Desktop\workspace\EEMS_FrontPages\static\images\public" />
       <recent name="C:\Users\Mr.Robot\Desktop\workspace\EEMS_FrontPages\static\images\index" />
       <recent name="C:\Users\Mr.Robot\Desktop\workspace\EEMS_FrontPages\static\images" />
       <recent name="C:\Users\Mr.Robot\Desktop\workspace\EEMS_FrontPages\static\js" />
-      <recent name="C:\Users\Mr.Robot\Desktop\workspace\EEMS_FrontPages\static\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mr.Robot\Desktop\workspace\EEMS_FrontPages\static\images\index" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -209,33 +193,33 @@
       <option name="presentableId" value="Default" />
       <updated>1529891781221</updated>
       <workItem from="1529891785048" duration="4121000" />
+      <workItem from="1531095802367" duration="5208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4121000" />
+    <option name="totallyTimeSpent" value="9329000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="1292" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22786458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14106584" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,10 +229,44 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/htmls/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+          <folding>
+            <element signature="e#724#730#0" expanded="true" />
+            <element signature="e#730#736#0" expanded="true" />
+            <element signature="e#737#743#0" expanded="true" />
+            <element signature="e#743#749#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/headerAndFooter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6441">
+          <caret line="339" lean-forward="true" selection-start-line="339" selection-end-line="339" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/css/public.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/index/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2945">
+          <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/public.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -261,15 +279,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/headerAndFooter.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
-          <caret line="339" lean-forward="true" selection-start-line="339" selection-end-line="339" />
+        <state relative-caret-position="6441">
+          <caret line="339" selection-start-line="339" selection-end-line="339" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/index/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="129" column="21" lean-forward="true" selection-start-line="129" selection-start-column="21" selection-end-line="129" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/htmls/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        <state relative-caret-position="570">
+          <caret line="62" column="57" lean-forward="true" selection-start-line="62" selection-start-column="57" selection-end-line="62" selection-end-column="57" />
           <folding>
             <element signature="e#724#730#0" expanded="true" />
             <element signature="e#730#736#0" expanded="true" />
@@ -279,10 +304,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/index/login.css">
+    <entry file="file://$PROJECT_DIR$/static/css/desc/desc.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
-          <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
+        <state relative-caret-position="561">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmls/desc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="56" column="27" lean-forward="true" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
         </state>
       </provider>
     </entry>
